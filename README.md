@@ -1,6 +1,7 @@
 # ASCII Retro Games & Real-time Filters
 
 This repository is a collection of projects centered around ASCII art. It consists of two major components: a retro arcade games console featuring 12 terminal games, and a native macOS real-time screen-to-ASCII filter application.
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/b0b1dc33-f40d-4f0b-b003-bc4681524930" /><img width="947" height="580" alt="image" src="https://github.com/user-attachments/assets/88d67698-119a-4821-906c-402f28ca7639" />
 
 ---
 
